@@ -1,0 +1,2 @@
+Lamp,30.0
+Notepad,4.0
